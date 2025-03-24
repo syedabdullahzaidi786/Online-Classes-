@@ -1,0 +1,9 @@
+// First Command
+
+tsc --init   // tsconfig.json
+
+// Second Command
+
+npm init -y  //package.json
+
+// 
