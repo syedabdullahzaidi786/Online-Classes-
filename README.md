@@ -63,4 +63,9 @@ If you have any questions, feel free to ask during our **online sessions** or op
 📧 **Contact:** Your Email or GitHub Profile Link  
 🌐 **GitHub Repo:** [Your Repo Link](https://github.com/YOUR_GITHUB_USERNAME/typescript-online-classes)
 
+**Install TypeScript Globally:**
+   ```sh
+   npm install --save-dev typescript
+   ```
+
 Happy Coding! 🎉
