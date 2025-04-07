@@ -1,0 +1,6 @@
+First Install Cursor
+Second Create Account
+Third Login Account
+Fourth Link Account Your Code Editor
+Fifth Check Your Agent.
+then start coding...
